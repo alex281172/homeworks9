@@ -1,0 +1,23 @@
+list.append(x)
+list.sort([key=функция])
+list.remove(x)
+list.insert(i, x)
+list.count(x)
+
+dict.items()
+dict.values()
+dict.keys()
+dict.clear()
+dict.update([other])
+
+set.add(elem)
+set.remove(elem)
+set.discard(elem)
+set.clear()
+set.copy()
+
+S.upper()
+S.lower()
+S.split(символ)
+S.isdigit()
+S.isalpha()
